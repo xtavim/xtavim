@@ -1,6 +1,7 @@
 # Hi there, I'm Gustavo! 👋
 
-Welcome to my GitHub profile! I'm a **Front-End Developer** with a passion for building elegant and user-friendly interfaces. Here's a bit about me:
+Welcome to my GitHub profile! That's my cat in the profile picture 🐱
+I'm a **Front-End Developer** with a passion for building elegant and user-friendly interfaces. Here's a bit about me:
 
 ## 🚀 About Me
 - 🛠️ **Tech Stack**: React, Next.js, Tailwind CSS, JavaScript/TypeScript
