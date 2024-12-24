@@ -12,12 +12,12 @@ I'm a **Front-End Developer** with a passion for building elegant and user-frien
 
 ## 💻 My Skills
 
-### Front-End Development 🌟
+### 🌟 Front-End Development 
 - **React**: Crafting dynamic and reusable components
 - **Next.js**: Building high-performance and SEO-friendly applications
 - **CSS Frameworks**: Tailwind CSS
 - **JavaScript/TypeScript**: For scalable and maintainable code
 
 ## 💬 Let's Connect!
-- 🌐 [Portfolio]Soon!
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/gustavofmendes/))
+- 🌐 Portfolio Soon!
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavofmendes/)
